@@ -1,4 +1,4 @@
-# Advanced Blockchain: How Actually Blockchain Works By Zexo
+## Advanced Blockchain: How Actually Blockchain Works By Zexo
 
 **"Katanya sih, 'Gak ada yang paham Bitcoin, tapi gapapa'? Yuk Kita Bongkar!**  
 
