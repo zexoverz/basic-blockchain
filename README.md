@@ -1,9 +1,7 @@
 ## Advanced Blockchain: How Actually Blockchain Works By Zexo
 
-**"Katanya sih, 'Gak ada yang paham Bitcoin, tapi gapapa'? Yuk Kita Bongkar!**  
-
-Pernah dengar orang bilang, *"Gak ada yang paham Bitcoin, tapi ya gapapa lah"*? **BULLSHIT!**  
-Sebenarnya, emang banyak yang gak paham, tapi lucunya… *orang tetep pake aja* 😅. *Sama kayak lo pake Wi-Fi tiap hari tapi gak tau cara kerja router!*  
+Pernah denger orang bilang, *"Gak ada yang paham Bitcoin, tapi ya gapapa lah"*? **BULLSHIT!**  
+sebenrnya, emang banyak yang gak paham, tapi lucunya… *orang tetep pake aja* 😅. *Sama kayak lu pake Wi-Fi tiap hari tapi gak tau cara kerja router!*  
 
 Nah, masalahnya… **blockchain itu bukan cuma urusan koding doang!** Ini campur aduk: *ekonomi, konsep keuangan baru, sampe politik*. Makanya, otak kita sering **ERROR 404** pas mau ngerti. *Bikin pusing tujuh keliling kan?*  
 
@@ -12,10 +10,9 @@ Sebelom nulis ini, gw udah *"nongkrong virtual"* sama ahli-ahli kripto, dari tuk
 - Ada yang bilang mirip *database alien*  
 - Bahkan ada yang nyebut "blockchain itu cuma hype doang" (wtf?!)  
 
-Tapi setelah gw telusuri… **blockchain emang terlihat mistis kayak drakor plot twist!** Tapi tenang—gw bakal jadi *"Dumbledore"* lo buat jelasin ini semua pake bahasa manusia.  
+Tapi setelah gw telusuri… **blockchain emang terlihat mistis kayak drakor plot twist!** Tapi tenang gw bakal jelasin ini semua pake bahasa manusia.  
 
 *Intinya: Gak usah takut!* Blockchain itu kayak resep martabak—kelihatan ribet, tapi kalo udah tau caranya, *lu bisa jualan di depan rumah*. **Santai aja, gw bakal jelasin pake diagram keren!**  
-
 
 ---
 
@@ -57,7 +54,7 @@ Blockchain adalah rantai blok digital yang berfungsi sebagai buku besar terdistr
 
 ### **2. Arsitektur Blockchain: Dari Transaksi Hingga Block**  
 #### **Langkah demi Langkah**:  
-1. **Transaksi Dibuat**: Anda mengirim 1 ETH ke teman.  
+1. **Transaksi Dibuat**: Kalian mengirim 1 ETH ke teman.  
 2. **Validasi oleh Node**:  
    - Node memeriksa saldo dan tanda tangan digital.  
    - Jika valid, transaksi masuk ke **mempool** (antrian transaksi).  
@@ -392,7 +389,7 @@ Dengan contoh konkret ini, proses teknis blockchain menjadi lebih nyata. Setiap 
 
 ### **8. Double-Spending & Konsensus**  
 #### **Masalah Double-Spending**:  
-- Bagaimana jika Anda mencoba mengirim 1 ETH ke dua orang sekaligus?  
+- Bagaimana jika Kalian mencoba mengirim 1 ETH ke dua orang sekaligus?  
 - **Solusi**: Blockchain memilih rantai terpanjang (dengan kerja terbanyak).  
 
 #### **Serangan 51%**:  
@@ -414,7 +411,7 @@ Dengan contoh konkret ini, proses teknis blockchain menjadi lebih nyata. Setiap 
 ---
 
 ### **Kesimpulan: Blockchain = Dapur Masa Depan**  
-Blockchain bukan hanya teknologi—ia adalah revolusi cara kita berinteraksi dan mempercayai. Dengan memahami dasarnya, Anda siap menjadi "koki" di era Web3!  
+Blockchain bukan hanya teknologi—ia adalah revolusi cara kita berinteraksi dan mempercayai. Dengan memahami dasarnya, Kalian siap menjadi "koki" di era Web3!  
 
 **Referensi**:  
 - [Buku Putih Bitcoin](https://bitcoin.org/bitcoin.pdf)  
