@@ -414,7 +414,7 @@ Dengan contoh konkret ini, proses teknis blockchain menjadi lebih nyata. Setiap 
 Blockchain bukan hanya teknologi—ia adalah revolusi cara kita berinteraksi dan mempercayai. Dengan memahami dasarnya, Kalian siap menjadi "koki" di era Web3!  
 
 **Referensi**:  
-- [Buku Putih Bitcoin](https://bitcoin.org/bitcoin.pdf)  
+- [Whitepaper Bitcoin](https://bitcoin.org/bitcoin.pdf)  
 - [Dokumentasi Ethereum](https://ethereum.org/en/developers/docs/)  
 - [Simulator Blockchain Interaktif](https://andersbrownworth.com/blockchain/)  
 
