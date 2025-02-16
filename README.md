@@ -379,7 +379,7 @@ Dengan contoh konkret ini, proses teknis blockchain menjadi lebih nyata. Setiap 
 - **Contoh**: Ethereum 2.0, Cardano.  
 
 **Perbandingan**:  
-| Kriteria          | PoW               | PoW               |  
+| Kriteria          | PoW               | PoS               |  
 |--------------------|-------------------|-------------------|  
 | Energi            | Tinggi            | Rendah            |  
 | Kecepatan         | Lambat (~10 menit)| Cepat (~12 detik) |  
